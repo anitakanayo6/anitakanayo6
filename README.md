@@ -1,7 +1,4 @@
-<!-- Header section with banner -->
-<p align="center">
-  <img src="https://i.imgur.com/jH4XTlI.png" alt="Developer Banner" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Anita Khanayo</h1>
 <h3 align="center">A passionate Software Developer crafting modern solutions using Java, C#, JavaScript, Azure, and more!</h3>
