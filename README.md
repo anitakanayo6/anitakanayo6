@@ -1,8 +1,6 @@
-
-
 <h1 align="center">Hi 👋, I'm Anita Khanayo</h1>
 <h3 align="center">A passionate Software Developer crafting modern solutions using Java, C#, JavaScript, Azure, and more!</h3>
-![snake gif](https://github.com/anitakanayo6/anitakanayo/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/anitakanayo6/anitakanayo/output/github-contribution-grid-snake.gif)
 
 ---
 
@@ -29,7 +27,7 @@
 - 🚀 Cloud-native, CI/CD, and DevOps enthusiast  
 - 🌱 Currently learning more about system design and enterprise-scale apps  
 - 🔧 Passionate about clean code, scalable systems, and continuous learning  
-- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/anita-khanayo) | [Email](mailto:your.email@example.com)
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/anita-khanayo) | [Email](kanayoanita04@gmail.com)
 
 ---
 
