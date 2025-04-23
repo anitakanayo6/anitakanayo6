@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anita Khanayo</h1>
 <h3 align="center">A passionate Software Developer crafting modern solutions using Java, C#, JavaScript, Azure, and more!</h3>
-![snake gif](https://raw.githubusercontent.com/anitakanayo6/anitakanayo/output/github-contribution-grid-snake.gif)
+github-contribution-grid-snake-dark.svg
 
 ---
 
